@@ -1,0 +1,11 @@
+.cards{
+  
+  border: 2px solid black;
+  width: 200px;
+  height: 300px;
+}
+.flex{
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+}
